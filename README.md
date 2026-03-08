@@ -38,11 +38,16 @@ My doctoral research centers on creating intelligent building systems that optim
 
 **Chen Y**, Sumiyoshi D, et al. (2024). "An IoT-Based Diagnostic Interaction System for HVAC performance in Office Buildings." *Proceedings of ASIM 2024*. [📄 Download](https://publications.ibpsa.org/conference/paper/?id=asim2024_1255)
 
-**Chen Y**, Sumiyoshi D, Sakai R, et al. "Development of Low-Cost IoT Units for Thermal Comfort Measurement and AC Energy Consumption Prediction System." *Preprint*. [📄 arXiv:2411.19536](https://doi.org/10.48550/arXiv.2411.19536)
+**Chen Y**, Sumiyoshi D, Sakai R, et al. "Development of Low-Cost IoT Units for Thermal Comfort Measurement and AC Energy Consumption Prediction System." *Preprint*. [📄 Download](https://doi.org/10.48550/arXiv.2411.19536)
 
-**Chen Y**, Sumiyoshi D,  et al. "A Low-Cost IoT Framework for Device-Free Human Counting and Lighting Energy Control in Commercial Spaces." *Proceedings of IEEE International Conference on Computer Communication and the Internet (ICCCI) 2025*,  [📄 Download]
+**Chen Y**, Sumiyoshi D,  et al. "A Low-Cost IoT Framework for Device-Free Human Counting and Lighting Energy Control in Commercial Spaces." *Proceedings of IEEE International Conference on Computer Communication and the Internet (ICCCI) 2025*,   [📄 Download](https://ieeexplore.ieee.org/document/11158700)
 
-**Chen Y**, et al. "BI-Tech: An IoT-Based Behavioral Intervention System for User-Driven Energy Optimization in Commercial Spaces." *IEEE ACCESS*, 2025.
+**Chen Y**, et al. "BI-Tech: An IoT-Based Behavioral Intervention System for User-Driven Energy Optimization in Commercial Spaces." *IEEE ACCESS*, 2025. [📄 Download](https://ieeexplore.ieee.org/document/11154453)
+
+**Chen Y**,Sumiyoshi, D.; Wang, X.; Yamamoto, T.; Ueno, T.; Oh, J. *A Foundational Edge-AI Sensing Framework for Occupancy-Driven Energy Management in SMOs.* IoT 2026, 7, 25. [📄 Download](https://doi.org/10.3390/iot7010025)
+
+X. Wang, **Chen Y**, et al. "RL-LSTM and Heuristic Optimization for Energy-Efficient Office Management," *2025 6th International Conference on Information Science, Parallel and Distributed Systems (ISPDS)*. [📄 Download](https://ieeexplore.ieee.org/document/11391185)
+
 
 ### Open Source Contributions
 
